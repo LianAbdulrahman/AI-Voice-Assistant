@@ -1,4 +1,4 @@
-## 🎙️ AI Voice Assistant – Python
+##  AI Voice Assistant – Python
 
 **AI Voice Assistant** is a Python-based interactive application that listens to your speech, understands it using AI, and responds with natural-sounding speech in real time.  
 
@@ -9,7 +9,7 @@ It uses the following core components:
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Speech to Text (RealtimeSTT)**  
    The microphone captures your voice and transcribes it into text in real time using **RealtimeSTT** (Speech-to-Text).  
